@@ -45,3 +45,12 @@ margin: 10px 35%;
     border: #d3d2d2 1px solid;
     cursor: pointer;
 }
+
+@media screen and (max-width: 600px) {
+    .emoji {
+       
+        height: 10vh;
+       
+        margin: auto;
+}
+}
